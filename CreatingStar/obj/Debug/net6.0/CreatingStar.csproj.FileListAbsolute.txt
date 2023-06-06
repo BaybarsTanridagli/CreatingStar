@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\bin\Debug\net6.0\CreatingStar.exe
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\bin\Debug\net6.0\CreatingStar.deps.json
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\bin\Debug\net6.0\CreatingStar.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\bin\Debug\net6.0\CreatingStar.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\bin\Debug\net6.0\CreatingStar.pdb
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\obj\Debug\net6.0\CreatingStar.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\obj\Debug\net6.0\CreatingStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\obj\Debug\net6.0\CreatingStar.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\obj\Debug\net6.0\CreatingStar.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\obj\Debug\net6.0\CreatingStar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\obj\Debug\net6.0\CreatingStar.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\obj\Debug\net6.0\refint\CreatingStar.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\obj\Debug\net6.0\CreatingStar.pdb
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\obj\Debug\net6.0\CreatingStar.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\CreatingStar\obj\Debug\net6.0\ref\CreatingStar.dll
